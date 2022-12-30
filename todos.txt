@@ -1,4 +1,7 @@
 Money
 soup
 live
-
+yup
+food
+food
+eat
